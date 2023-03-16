@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>💬 Ask me about<br>⚡ Welcome to my Profile! I'm grateful to share about myself, Call me Shuvojit Kar<br>
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br> ⚡ Welcome to my Profile! I'm grateful to share about myself, Call me Shuvojit Kar<br> 
+I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. I am excellent at working with others to achieve a certain objective on time and with excellence. Experience with IaaS/PaaS technologies, and delivering technical pitches. Have extensive knowledge of SQL Server,Python, GCP, MS Power BI, SSIS, and SSAS. <br>
 
 
 ## 🌐 Socials:
