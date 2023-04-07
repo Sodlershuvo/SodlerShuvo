@@ -5,7 +5,6 @@ I am an energetic, ambitious person who has developed a mature and responsible a
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shuvojit-kar-0121521b3/)
-![image](https://user-images.githubusercontent.com/125951896/230557085-87794767-0d76-49a5-8150-19544c737b04.png)
 
 
 # 💻 Tech Stack:
